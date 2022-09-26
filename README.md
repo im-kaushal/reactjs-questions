@@ -1,5 +1,4 @@
 # React Interview Questions & Answers
----
 ### Table of Contents
 
 | No. | Questions |
